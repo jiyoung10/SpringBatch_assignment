@@ -5,6 +5,8 @@ Study about springBatch
 트리거 등에 의해 서버가 실행될 시 자동으로 대량의 데이터를 처리하는 애플리케이션이다.
 </br></br>
 <h3>■ Spring Batch Architecture</h3>
+*맨 처음 step -> start 로 용어 수정 
+</br>
 <img src=https://github.com/jiyoung10/SpringBatch_assignment/assets/124184748/ffcfa2dd-e638-49a0-9ca3-8c9925a93afd></img></br></br>
 <img src=https://github.com/jiyoung10/SpringBatch_assignment/assets/124184748/ffab931c-34fa-4ee8-bfd3-e9dd56b68f9a></img></br></br>
 
